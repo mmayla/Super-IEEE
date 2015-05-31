@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="IEEEchar1.png"	x="400"	y="641"	width="319"	height="253" frameX="-0" frameY="-0" frameWidth="319" frameHeight="253"/>
+	<SubTexture name="IEEEchar2.png"	x="720"	y="357"	width="227"	height="287" frameX="-0" frameY="-0" frameWidth="227" frameHeight="287"/>
+	<SubTexture name="IEEEchar3.png"	x="400"	y="895"	width="246"	height="216" frameX="-0" frameY="-0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="IEEEchar4.png"	x="702"	y="72"	width="243"	height="284" frameX="-0" frameY="-0" frameWidth="243" frameHeight="284"/>
+	<SubTexture name="strtIEEEman"	x="0"	y="641"	width="399"	height="497" frameX="-0" frameY="-0" frameWidth="399" frameHeight="497"/>
+	<SubTexture name="IEEEstartbutton.png"	x="0"	y="72"	width="564"	height="244" frameX="-0" frameY="-0" frameWidth="564" frameHeight="244"/>
+	<SubTexture name="IEEEsticker.png"	x="0"	y="317"	width="436"	height="170" frameX="-0" frameY="-0" frameWidth="436" frameHeight="170"/>
+	<SubTexture name="UIbg.png"	x="437"	y="317"	width="264"	height="264" frameX="-0" frameY="-0" frameWidth="264" frameHeight="264"/>
+	<SubTexture name="bg2"	x="0"	y="0"	width="808"	height="71" frameX="-0" frameY="-0" frameWidth="808" frameHeight="71"/>
+	<SubTexture name="buttonLarge.png"	x="647"	y="1024"	width="196"	height="70" frameX="-0" frameY="-0" frameWidth="196" frameHeight="70"/>
+	<SubTexture name="buttonSmall.png"	x="565"	y="72"	width="136"	height="80" frameX="-0" frameY="-0" frameWidth="136" frameHeight="80"/>
+	<SubTexture name="coin.png"	x="565"	y="153"	width="114"	height="119" frameX="-0" frameY="-0" frameWidth="114" frameHeight="119"/>
+	<SubTexture name="IEEEman1"	x="647"	y="895"	width="200"	height="128" frameX="-0" frameY="-0" frameWidth="200" frameHeight="128"/>
+	<SubTexture name="IEEEman2"	x="720"	y="645"	width="199"	height="128" frameX="-1" frameY="-0" frameWidth="200" frameHeight="128"/>
+	<SubTexture name="IEEEman3"	x="920"	y="645"	width="195"	height="128" frameX="-5" frameY="-0" frameWidth="200" frameHeight="128"/>
+	<SubTexture name="IEEEman4"	x="848"	y="774"	width="199"	height="128" frameX="-1" frameY="-0" frameWidth="200" frameHeight="128"/>
+	<SubTexture name="puffLarge.png"	x="565"	y="273"	width="42"	height="35" frameX="-0" frameY="-0" frameWidth="42" frameHeight="35"/>
+	<SubTexture name="puffSmall.png"	x="400"	y="1112"	width="25"	height="21" frameX="-0" frameY="-0" frameWidth="25" frameHeight="21"/>
+	<SubTexture name="rock.png"	x="946"	y="0"	width="108"	height="239" frameX="-0" frameY="-0" frameWidth="108" frameHeight="239"/>
+	<SubTexture name="rockDown.png"	x="957"	y="903"	width="108"	height="239" frameX="-0" frameY="-0" frameWidth="108" frameHeight="239"/>
+	<SubTexture name="rockGrass.png"	x="848"	y="903"	width="108"	height="239" frameX="-0" frameY="-0" frameWidth="108" frameHeight="239"/>
+	<SubTexture name="rockGrassDown.png"	x="948"	y="240"	width="108"	height="239" frameX="-0" frameY="-0" frameWidth="108" frameHeight="239"/>
+	<SubTexture name="starGold.png"	x="608"	y="273"	width="39"	height="37" frameX="-0" frameY="-0" frameWidth="39" frameHeight="38"/>
+	<SubTexture name="tap.png"	x="573"	y="582"	width="40"	height="40" frameX="-19" frameY="-19" frameWidth="59" frameHeight="59"/>
+	<SubTexture name="tapDown.png"	x="780"	y="774"	width="38"	height="85" frameX="-0" frameY="-0" frameWidth="38" frameHeight="85"/>
+	<SubTexture name="tapLeft.png"	x="401"	y="582"	width="85"	height="42" frameX="-0" frameY="-0" frameWidth="85" frameHeight="42"/>
+	<SubTexture name="tapRight.png"	x="487"	y="582"	width="85"	height="42" frameX="-0" frameY="-0" frameWidth="85" frameHeight="42"/>
+	<SubTexture name="tapTick.png"	x="720"	y="774"	width="59"	height="59" frameX="-0" frameY="-0" frameWidth="59" frameHeight="59"/>
+	<SubTexture name="tapUp.png"	x="948"	y="480"	width="38"	height="85" frameX="-0" frameY="-0" frameWidth="38" frameHeight="85"/>
+	<SubTexture name="textGameOver.png"	x="0"	y="488"	width="412"	height="78" frameX="-0" frameY="-0" frameWidth="412" frameHeight="78"/>
+	<SubTexture name="textGetReady.png"	x="0"	y="567"	width="400"	height="73" frameX="-0" frameY="-0" frameWidth="400" frameHeight="73"/>
+</TextureAtlas>

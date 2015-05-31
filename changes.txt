@@ -1,0 +1,3 @@
+in assets class:
+	write the package "Importers"
+	change the constant names "AtlasTextureGame,AtlasXmlGame" to "AtlasTexture,AtlasXml"

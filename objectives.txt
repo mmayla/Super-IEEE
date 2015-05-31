@@ -1,0 +1,3 @@
+-delete the objects when they get out of the screen	done
+-hit detection										done
+-delete the objects when they hit IEEE man			done
